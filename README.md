@@ -18,7 +18,7 @@
 ## 截图
 
 <div align="center">
-  <img src="screenshots/main.png" alt="主界面" width="300"/>
+  <img src="screenshot.jpg" alt="主界面" width="280"/>
 </div>
 
 ## 使用方法
